@@ -8,3 +8,6 @@ opencv-python
 Pillow
 tqdm
 jupyter
+
+# For Colab face cropping:
+# pip install facenet-pytorch --no-deps
